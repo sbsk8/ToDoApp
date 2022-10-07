@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Requests\CreateTask;
+use App\Http\Requests\createTask;
 use App\Http\Requests\EditTask;
 use App\Models\Folder;
 use App\Models\Task;
