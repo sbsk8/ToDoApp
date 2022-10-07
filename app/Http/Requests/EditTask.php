@@ -6,7 +6,7 @@ use App\Models\Task;
 use Illuminate\validation\Rule;
 // use Illuminate\Foundation\Http\FormRequest;
 
-class EditTask extends CreateTask
+class EditTask extends createTask
 {
 	public function rules()
     {
